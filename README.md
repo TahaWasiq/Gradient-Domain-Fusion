@@ -54,7 +54,7 @@ Applications explored in this project:
 /
 ├── Gradient_Domain_Fusion.ipynb         # ✔️ Main notebook
 ├── utils.py                             # ✔️ Provided utility functions
-├── images/                              # ✔️ Toy images, blending samples, color2gray test images
+├── samples/                             # ✔️ Toy images, blending samples, color2gray test images
 ├── results/                             # ✔️ Blending and output images
 ├── report.pdf                           # ✔️ Final write-up
 └── README.md                            # ✔️ This file
